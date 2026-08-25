@@ -174,11 +174,11 @@ Pokemon Emerald:
     true: 70
   remove_roadblocks: []
   extra_boulders:
-    false: 35
-    true: 65
+    false: 25
+    true: 75
   extra_bumpy_slope:
-    false: 35
-    true: 65
+    false: 25
+    true: 75
   modify_118:
     false: 35
     true: 65
@@ -199,7 +199,7 @@ Pokemon Emerald:
     true: 20
   death_link: false
   enable_wonder_trading: true
-  local_items: Letter
+  local_items: []
 
   triggers:
     # Blacklist wild legendaries

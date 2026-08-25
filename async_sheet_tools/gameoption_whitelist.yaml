@@ -40,6 +40,7 @@ A Link to the Past:
     - Locations
     - Name
     - Goal
+    - Local Items
     - Mode
     - Dark Room Logic
     - Crystals for GT
@@ -98,12 +99,95 @@ Aquaria:
     - Turtle Randomizer
     - Early Energy form
     - Early Bind song
+    - Light needed to get to dark places
     - Bind song needed to get sing bulbs under rocks
     - Unconfine Home Waters Area
-    - No progression in hard or hidden locations
     - Randomize Ingredients
     - Dish Randomizer
     - Translate Aquarian
+    - Infinite Hot Soup
+    - Open the body tongue
+    - Skip final boss third form
+    - Save heal Naija
+    - Throne as a location
+    - No progression in hard or hidden locations
+Banjo-Tooie:
+    - Banjo-Tooie
+    - Locations
+    - Name
+    - Logic Type
+    - Victory Condition
+    - Open HAG 1
+    - Minigame Hunt Length
+    - Boss Hunt Length
+    - Jinjo Family Rescue Length
+    - "Token Hunt: Mumbo Tokens in Pool"
+    - Token Hunt Length
+    - World Requirements
+    - Skip Puzzles
+    - Randomize Banjo-Kazooie Movelist
+    - Randomize Banjo-Tooie Movelist
+    - Jamjars' Silo Costs
+    - Egg Behaviour
+    - Progressive Beak Buster
+    - Progressive Shoes
+    - Progressive Water Training
+    - Progressive Flight
+    - Progressive Egg Aim
+    - Progressive Bash Attack
+    - Randomize Treble Clefs
+    - Additional Treble Clefs
+    - Number of Bass Clefs
+    - Randomize Jinjos
+    - Randomize Doubloons
+    - Randomize Cheato Pages
+    - Randomize Cheato Rewards
+    - Randomize Honeycombs
+    - Randomize Honey B Rewards
+    - Randomize Big Top Tickets
+    - Randomize Green Relics
+    - Randomize Beans
+    - Randomize Mumbo and Humba Magic
+    - Randomize Stop n Swap
+    - Randomize Baby T-Rex Roar
+    - Nestsanity
+    - Randomize Signposts
+    - Randomize Train Station Switches
+    - Randomize Chuffy
+    - Randomize Warp Pads
+    - Randomize Silos
+    - Open Silos
+    - Randomize World Order
+    - Randomize World Entrances
+    - Randomize Bosses
+    - Open Backdoors
+    - Open GI Frontdoor
+    - Signpost Hints
+    - Signpost Move Hints
+    - Hint Clarity
+    - Add Signpost Hints to Archipelago Hints
+    - Speed Up Minigames
+    - Tower of Tragedy Quiz
+    - Skip Klungo
+    - Automatic Cheat Activation
+    - Extra Cheats
+    - King Jingaling Jiggy
+    - Replace Extra Jiggies
+    - Replace Extra Notes with filler
+    - Extra Jiggies Weight
+    - Extra 5 Notes Weight
+    - Extra Doubloons Weight
+    - Egg Nests Weight
+    - Feather Nests Weight
+    - Big-O-Pants Weight
+    - Golden Eggs Weight
+    - Trip Trap Weight
+    - Slip Trap Weight
+    - Transform Trap Weight
+    - Squish Trap Weight
+    - Tip Trap Weight
+    - Max Traps
+    - Dialog Character
 Blasphemous:
     - Blasphemous
     - Locations
@@ -129,6 +213,35 @@ Bomb Rush Cyberfunk:
     - Total REP
     - Extra REP Required
     - Starting Movestyle
+Brotato:
+    - Brotato
+    - Locations
+    - Name
+    - Wins Required
+    - Number of Included Characters
+    - Number of Starting Characters
+    - Starting Characters
+    - Waves Per Check
+    - Gold Reward Mode
+    - XP Reward Mode
+    - Enable Enemy XP
+    - Spawn Normal Loot Crates
+    - Loot Crate Locations
+    - Crate Pickup Step
+    - Loot Crate Groups
+    - Legendary Loot Crate Locations
+    - Legendary Loot Crate Groups
+    - Common Items
+    - Uncommon Items
+    - Rare Items
+    - Legendary Items
+    - Common Upgrades
+    - Uncommon Upgrades
+    - Rare Upgrades
+    - Legendary Upgrades
+    - Starting Shop Slots
+    - Starting Shop Lock Buttons
+    - Enable Abyssal Terrors DLC
 Bumper Stickers:
     - Bumper Stickers
     - Locations
@@ -136,6 +249,24 @@ Bumper Stickers:
     - Task Advances
     - Turners
     - Paint Cans
+Candy Box 2:
+    - Candy Box 2
+    - locations
+    - Name
+    - Entrance Randomisation
+    - Randomise X Potion
+    - Starting Weapon
+    - Progressive Jump
+    - Candy Production Multiplier
+    - Candy Drop Multiplier
+    - Lollipop Production Multiplier
+    - Candy Merchant's Hat Price (x1000)
+    - Sorceress' Hat Price (x1000)
+    - Teapot Boss HP
+    - Spells
+    - Pains au Chocolat Count
+    - Energy Link
+    - Font Traps
 Castlevania - Circle of the Moon:
     - Castlevania - Circle of the Moon
     - Locations
@@ -154,6 +285,7 @@ Castlevania - Circle of the Moon:
     - Countdown
     - Sub-weapon Shuffle
     - Disable Battle Arena MP Drain
+    - Required Skirmishes
     - DSS Pluto and Griffin Run Speed in Air
     - Nerf Roc Wing
     - Early Escape Item
@@ -220,6 +352,46 @@ Civilization VI:
     - Boostsanity
     - Hide Item Names
     - Advisor Indicates Progression Items
+CrossCode:
+    - CrossCode
+    - locations
+    - Name
+    - Goal
+    - Enable DLC
+    - Closed Gaia
+    - Quest Randomization
+    - Shop Randomization
+    - Shop Send Mode
+    - Shop Receive Mode
+    - Rhombus Hub Unlock
+    - Progressive Area Unlocks
+    - Progressive Equipment
+    - Keyrings
+    - Botanics Randomization
+    - Small Key Shuffle
+    - Master Key Shuffle
+    - Chest Lock Randomization
+    - Unlocked Chest Weight
+    - Bronze Chest Lock Weight
+    - Silver Chest Lock Weight
+    - Gold Chest Lock Weight
+    - Common Pool Weight
+    - Rare Pool Weight
+    - Epic Pool Weight
+    - Legendary Pool Weight
+    - Consumable Weight
+    - Drop Weight
+Dark Cloud 1:
+    - Dark Cloud 1
+    - locations
+    - Name
+    - Boss Goal
+    - Required Memory Count
+    - Open Dungeon
+    - Chest Sanity
+    - ABS Multiplier
+    - Attachment Multiplier
+    - Auto Build Buildings
 Dark Souls III:
     - Dark Souls III
     - Locations
@@ -227,6 +399,7 @@ Dark Souls III:
     - Late Basin of Vows
     - Late DLC
     - Enable DLC
+    - Enable NG+
     - Randomize Starting Loadout
     - No Equip Load
     - No Weapon Requirements
@@ -244,6 +417,125 @@ DLCQuest:
     - Permanent Coins
     - Item Shuffle
     - Start Inventory
+Donkey Kong 64:
+    - Donkey Kong 64
+    - Locations
+    - Name
+    - Goal
+    - Amount of Pregiven Keys
+    - Require Beating K. Rool
+    - Shuffle Helm
+    - K. Rool Phase Count
+    - Helm Phase Count
+    - K. Rool In Boss Pool
+    - Medal CB Requirements
+    - CB Requirement Setting
+    - Mermaid Requirement
+    - Jetpac Requirement
+    - Rareware GB Requirment
+    - Randomize B. Lockers
+    - Maximum B. Locker
+    - Chaos B. Lockers
+    - Maximize Helm B. Locker
+    - Chaos Ratio
+    - Open Lobbies
+    - Switchsanity
+    - Climbing Shuffle
+    - Starting Kong Count
+    - Starting Move Count
+    - Shop Keepers in Pool
+    - Half Medals in Pool
+    - Randomize Hint
+    - Boulders in Pool
+    - Dropsanity
+    - Hard Minigames
+    - Auto Complete Bonus Barrels
+    - Helm Room Bonus Count
+    - Crown Door Item
+    - Coin Door Item
+    - Smaller Shops
+    - Puzzle Randomization
+    - Snide Maximum
+    - Alternate Minecart Mayhem
+    - Loading Zone Rando
+    - Galleon Water Level
+    - Add Snide Turnins to the Pool
+Donkey Kong Country:
+    - Donkey Kong Country
+    - Locations
+    - Name
+    - Starting Kong
+    - Big Bananas Required
+    - Jungle Levels Required
+    - Mines Levels Required
+    - Valley Levels Required
+    - Glacier Levels Required
+    - Industries Levels Required
+    - Caverns Levels Required
+    - Starting World
+    - KONG Letters Checks
+    - Balloon Checks
+    - Banana Bunches Checks
+    - Animal Token Checks
+    - Trap Fill Percentage
+    - Jump Trap Weight
+    - Sticky Floor Trap Weight
+    - Stun Trap Weight
+    - Nut Trap Weight
+    - Army Trap Weight
+    - Animal Bonus Trap Weight
+    - Set Custom Palettes
+    - Donkey Active Palette
+    - Donkey Inactive Palette
+    - Diddy Active Palette
+    - Diddy Inactive Palette
+    - KONG Letters
+Donkey Kong Country 2:
+    - Donkey Kong Country 2
+    - Locations
+    - Name
+    - Starting Kong
+    - Goal
+    - Flying Krock Tokens
+    - Lost World Rocks
+    - Galleon Levels Required
+    - Cauldron Levels Required
+    - Quay Levels Required
+    - Kremland Levels Required
+    - Gulch Levels Required
+    - Keep Levels Required
+    - Krock Levels Required
+    - Shuffle Levels
+    - KONG Letters Checks
+    - DK Coin Checks
+    - Balloonsanity
+    - Coinsanity
+    - Bananasanity
+    - Swanky Quiz Checks
+    - Trap Fill Percentage
+    - Freeze Trap Weight
+    - Reverse Trap Weight
+    - Honey Trap Weight
+    - Ice Trap Weight
+    - TNT Barrel Trap Weight
+    - Diddy Active Palette
+    - Diddy Inactive Palette
+    - Diddy Invincible Palette
+    - Diddy Frozen Palette
+    - Diddy Reversed Palette
+    - Diddy Slow Palette
+    - Dixie Active Palette
+    - Dixie Inactive Palette
+    - Dixie Invincible Palette
+    - Dixie Frozen Palette
+    - Dixie Reversed Palette
+    - Dixie Slow Palette
+    - Rambi Palette
+    - Enguarde Palette
+    - Squitter Palette
+    - Rattly Palette
+    - Squawks Palette
+    - Quawks Palette
 Donkey Kong Country 3:
     - Donkey Kong Country 3
     - Locations
@@ -284,6 +576,34 @@ DOOM II:
     - Secret Levels
     - Split Backpack
     - Backpack Count
+Dragon Warrior:
+    - Dragon Warrior
+    - Locations
+    - Name
+    - LevelSanity
+    - LevelSanity Range
+    - SearchSanity
+    - ShopSanity
+    - MonsterSanity
+    - Randomize Growth
+    - Random Spell Learning
+    - Scared Metal Slimes
+    - Scaled Metal Slime XP
+    - Bonk Damage
+    - Enable Death Necklace
+    - Enable Torches in Battle
+    - Repel in Dungeons
+    - Permanent Torch
+    - Fast Text
+    - Summer Sale
+    - Levelling Speed
+    - Return Escapes
+    - Return to Town
+    - Warp Whistle
+    - Levelup Refill
+    - Charlock Inn
+    - DL1 Crits
+    - DL2 Crits
 EarthBound:
     - EarthBound
     - Locations
@@ -310,6 +630,24 @@ Factorio:
     - Satellite
     - Free Samples Quality
     - Recipe Time
+    - CraftSanity
+    - World Generation
+Factorio - Space Age Without Space:
+    - Factorio - Space Age Without Space
+    - Locations
+    - Name
+    - Maximum Required Science Pack
+    - Goal
+    - Technology Tree Layout
+    - Maximum Science Pack Cost
+    - Tech Cost Distribution
+    - Science Pack Cost Mix
+    - Ramping Tech Costs
+    - Rocket Silo
+    - Satellite
+    - Free Samples Quality
+    - Recipe Time
+    - CraftSanity
     - World Generation
 Faxanadu:
     - Faxanadu
@@ -350,6 +688,17 @@ Final Fantasy Mystic Quest:
     - Map Shuffle
     - Shuffle Battlefield Rewards
     - Battlefields Battles Quantity
+Final Fantasy Tactics Ivalice Island:
+    - Final Fantasy Tactics Ivalice Island
+    - Locations
+    - Name
+    - Zodiac Stones in Pool
+    - Zodiac Stones Required
+    - Zodiac Stone Locations
+    - Final Battles
+    - Sidequest Battles
+    - Rare Battles
+    - Chemist Placement
 Frogmonster:
     - Frogmonster
     - Locations
@@ -359,6 +708,95 @@ Frogmonster:
     - Shuffle Slide Puzzles
     - Shuffle Bug-Eating Effects
     - Shuffle Workshop Key
+    - Open City
+Funi Raccoon Game:
+    - Funi Raccoon Game
+    - Locations
+    - Name
+    - Goal
+    - Eurosanity
+    - Gemsanity
+    - Catsanity
+    - Hatsanity
+    - Dumpster Weight Blocking
+"Garfield Kart - Furious Racing":
+    - "Garfield Kart - Furious Racing"
+    - Locations
+    - Name
+    - Goal
+    - CC Requirement
+    - Randomize Races
+    - Progressive Cups
+    - Randomize Puzzle Pieces
+    - Puzzle Piece Count
+    - Randomize Characters
+    - Randomize Karts
+    - Randomize Hats
+    - Randomize Spoilers
+    - Stat Randomizer
+    - Randomize Items
+    - Lap Sanity
+Gauntlet Legends:
+    - Gauntlet Legends
+    - Locations
+    - Name
+    - Chests and Barrels
+    - Obelisks
+    - Mirror Shards
+    - Goal
+    - Boss Goal Count
+    - Max Difficulty Value
+    - Infinite Keys
+    - Permanent Speed Boots
+    - Trap Frequency
+    - unlock_character_one
+    - unlock_character_two
+    - unlock_character_three
+    - unlock_character_four
+Golden Sun The Lost Age:
+    - Golden Sun The Lost Age
+    - Locations
+    - Name
+    - Djinn Hunt Count
+    - Item Shuffle
+    - Shortcut Mars Lighthouse
+    - Shortcut Magma Rock
+    - Lemurian Ship
+    - Start with Ship Wings
+    - Second Starting Character
+    - Enable Hard Mode
+Here Comes Niko!:
+    - Here Comes Niko!
+    - Locations
+    - Name
+    - Enable Achievements
+    - Shuffle Handsome Frog
+    - Shuffle Gary's Garden
+    - Gary's Garden Access
+    - Level Specific Keys
+    - Cassette Logic
+    - Extra Cassettes in Item Pool
+    - Progressive Contact List
+    - Snail Shop
+    - Speed Boost in Item Pool
+    - Completion Goal
+    - Safety Helmet
+    - Bug net
+    - Soda Cans
+    - Parasols
+    - Swimming
+    - Textbox
+    - Air Conditioners
+    - Apple Basket
+    - Fishsanity
+    - Seedsanity
+    - Flowersanity
+    - Bonesanity
+    - Applesanity
+    - Bugsanity
+    - Chatsanity
+    - Thoughtsanity
+    - Trap Chance
 Heretic:
     - Heretic
     - Locations
@@ -402,7 +840,6 @@ Hollow Knight:
     - Infection Skips
     - Fireball Skips
     - Acid Skips
-    - Goal
     - Grub Hunt Goal
     - White Palace
     - Additional Shop Slots
@@ -613,13 +1050,16 @@ Luigi's Mansion:
     - Hint Distribution
     - Send Hints
     - Toadsanity
-    - Gold Mice
+    - " Gold Mice"
     - Furnisanity
     - Boosanity
     - Portrification
+    - Silver Border Portrait Ghosts
+    - Gold Border Portrait Ghosts
     - Lightsanity
     - Walksanity
     - Speedy Spirits
+    - What do you mean these are locations?
     - Grassanity
     - Boo Gates
     - Fortune-Teller Requirements
@@ -627,7 +1067,13 @@ Luigi's Mansion:
     - Altar Boo Count
     - King Boo's Health
     - Boolossus Diffculty
+    - Boo Health Option
+    - Boo Health Value
+    - Boo Speed
+    - Boo Escape Time
     - Angry Boos
+    - Portrait Health Option
+    - Portrait Health Value
     - Extra Boo Spots
     - Chest Cosmetics
     - Trap Appearance
@@ -648,6 +1094,8 @@ Mario & Luigi Superstar Saga:
     - Item Block Visibility
     - Chuckle Beans
     - Goal
+    - Emblems Required
+    - Emblems Available
     - Music Options
     - Randomize Enemies
     - Randomize Bosses
@@ -658,6 +1106,21 @@ Mario & Luigi Superstar Saga:
     - Luigi's Color
     - Mario's Pants Color
     - Luigi's Pants Color
+Mario Kart Double Dash:
+    - Mario Kart Double Dash
+    - Locations
+    - Name
+    - Goal
+    - Trophy Requirement Percent
+    - Grand Prix Trophies
+    - Shuffle Extra Trophies
+    - Logic Difficulty
+    - Time Trials
+    - All Cup Tour Length
+    - Mirror is 200cc
+    - Items for Everybody
+    - Start Items per Character
+    - Kart Upgrades
 Mega Man 2:
     - Mega Man 2
     - Locations
@@ -686,11 +1149,63 @@ Mega Man 3:
     - Wily 4 Requirement
     - Palette Shuffle
     - Music Shuffle
+Mega Man X:
+    - Mega Man x1000
+    - Locations
+    - Name
+    - Starting HP
+    - Heart Tank Effectiveness
+    - Boss Weakness Randomization
+    - Boss Weakness Strictness
+    - Boss Randomize HP
+    - Jammed Buster
+    - Pickupsanity
+    - Early Legs
+    - Fortress Levels Bundle Unlock
+    - Sigma Fortress Rules
+    - Sigma Medal Count
+Mega Man X2:
+    - Mega Man X2
+    - Locations
+    - Name
+    - Starting HP
+    - Heart Tank Effectiveness
+    - Boss Weakness Randomization
+    - Boss Weakness Strictness
+    - Boss Randomize HP
+    - Pickupsanity
+    - Jammed Buster
+    - X-Hunter Base 4 Rematch count
+    - Base Levels Bundle Unlock
+    - Base Rules
+    - Base Medal Count
+    - X-Hunters Medal Count
+Mega Man X3:
+    - Mega Man X3
+    - Locations
+    - Name
+    - Starting HP
+    - Heart Tank Effectiveness
+    - Boss Weakness Randomization
+    - Boss Weakness Strictness
+    - Boss Randomize HP
+    - Pickupsanity
+    - Jammed Buster
+    - Doppler Lab rules
+    - Doppler Medal Count
+    - Doppler Lab 2 Boss
+    - Doppler Lab 3 Rematch count
+    - Doppler Lab Levels Bundle Unlock
+    - Vile Stage rules
+    - Vile Medal Count
+    - Bit Medal Count
+    - Byte Medal Count
 MegaMan Battle Network 3:
     - MegaMan Battle Network 3
     - Locations
     - Name
     - Extra Undernet Ranks
+    - Include Jobs
     - Trade Quest Hinting
 Meritous:
     - Meritous
@@ -712,10 +1227,14 @@ Nine Sols:
     - Nine Sols
     - Locations
     - Name
+    - Logic Difficulty
+    - Shuffle Sol Seals
     - Seals For Eigong
+    - randomize_shops
     - Skip Soulscape Platforming
     - Jade Cost Maximum
     - First Root Node
+    - shuffle_some_root_nodes
     - Shuffle Wall Climb
 Noita:
     - Noita
@@ -777,6 +1296,29 @@ Ori and the Blind Forest:
     - Extra Mapstones
     - Extra Skills
     - Logic Modifiers
+Ori and the Will of the Wisps:
+    - Ori and the Will of the Wisps
+    - Locations
+    - Name
+    - Goal
+    - Logic difficulty
+    - Glitches
+    - Launch Fragments
+    - Relic Count
+    - Remove Quests
+    - Glades Done
+    - No Combat
+    - No Trials
+    - No Willow hearts
+    - No Rain
+    - Better Wellspring
+    - Spawn with Sword
+    - Spawn with Regenerate
+    - Extra teleporters
+    - Bonus items
+    - Extra bonus items
+    - Skill upgrades
+    - Free Teleporters
 Outer Wilds:
     - Outer Wilds
     - Locations
@@ -808,6 +1350,191 @@ Paint:
     - Quarter Percent Checks
     - Canvas Size Increment
     - Trap Fill Percent
+"Paper Mario: The Thousand-Year Door":
+    - "Paper Mario: The Thousand-Year Door"
+    - Locations
+    - Name
+    - Goal
+    - Goal Crystal Stars
+    - Palace Crystal Stars
+    - Star Shuffle
+    - Tattlesanity
+    - Star Piecesanity
+    - Shopsanity
+    - Shop Purchase Limit
+    - Shinesanity
+    - Keysanity
+    - Dazzle Rewards
+    - Pit Items
+    - Limit Chapter Logic
+    - Blue Pipe Warp
+    - Palace Skip
+    - Skip Cutscenes
+    - Disable Intermissions
+    - Fast Travel
+    - Always Succeed Conditions
+    - Open West Side
+    - Grubba Bribe Cost
+    - Enemy Randomizer
+    - Enemy Stat Scaling
+    - Permanent Peekaboo
+    - Full Run Bar
+    - 0 BP First Attack
+    - Badge BP Cost
+    - Badge FP Cost
+    - Partner FP Cost
+    - Music Settings
+    - Block Visibility
+    - Experience Multiplier
+    - Starting HP
+    - Starting FP
+    - Starting BP
+    - Starting Coins
+    - Starting Partner
+    - Yoshi Color
+Peggle Deluxe:
+    - Peggle Deluxe
+    - Locations
+    - Name
+    - Goal
+    - Master Count
+    - Level Count
+    - Include Full Clears
+    - Maximum Starting Ball Count
+    - Useful Item Percentage
+Peggle Nights:
+    - Peggle Nights
+    - Locations
+    - Name
+    - Goal
+    - Master Count
+    - Level Count
+    - Include Full Clears
+    - Maximum Starting Ball Count
+    - Useful Item Percentage
+Pizza Tower:
+    - Pizza Tower
+    - Locations
+    - Name 
+    - Character
+    - Toppin Count
+    - Floor 1 Boss Toppins
+    - Floor 2 Boss Toppins
+    - Floor 3 Boss Toppins
+    - Floor 4 Boss Toppins
+    - Floor 5 Boss Toppins
+    - Treasures Award Checks
+    - Secrets Award Checks
+    - S Ranks Award Checks
+    - P Ranks Award Checks
+    - Chef Tasks Award Checks
+    - Shuffle Boss Keys
+    - Shuffle Level Gates
+    - Shuffle Boss Gates
+    - Shuffle Secrets
+    - Open World
+    - Bonus Ladders
+    - Randomize Moves
+    - Randomize Transformations
+    - Shuffle Lap 2 Portals
+    - Pumpkin Checks
+    - Pumpkin Count
+    - Tricky Treat Door Pumpkins
+    - Randomize Music
+    - Snotty's Home Floor
+    - Randomize Enemies
+Pokemon Black and White:
+    - Pokemon Black and White
+    - Locations
+    - Name
+    - Game Version
+    - Goal
+    - Randomize Wild Pokemon
+    - Randomize Trainer Pokemon
+    - Shuffle Badge Rewards
+    - Shuffle TM Rewards
+    - Dexsanity
+    - Season Control
+    - Modify Encounter Rates
+    - All Pokemon Seen
+    - Modify Item Pool
+    - Modify Logic
+Pokemon Crystal:
+    - Pokemon Crystal
+    - Locations
+    - Name
+    - Goal
+    - Elite Four Requirement
+    - Elite Four Count
+    - Red Requirement
+    - Red Count
+    - Mt. Silver Requirement
+    - Mt. Silver Count
+    - Radio Tower Requirement
+    - Radio Tower Count
+    - Route 44 Access Requirement
+    - Route 44 Access Count
+    - Magnet Train Access
+    - Vanilla Clair
+    - Randomize Starting Town
+    - Randomize Hidden Items
+    - Require Itemfinder
+    - Item Pool Fill
+    - Add Missing Useful Items
+    - Route 32 Access Condition
+    - Dark Areas
+    - Victory Road Access
+    - Kanto Access Requirement
+    - Kanto Access Count
+    - Red Gyarados Access
+    - Route 2 Access
+    - Route 3 Access
+    - Blackthorn Dark Cave Access
+    - National Park Access
+    - Route 42 Access
+    - Mount Mortar Access
+    - Route 12 Access
+    - S.S. Aqua Access
+    - Route 30 Access
+    - Route 30 Battle
+    - South Kanto Access
+    - South Kanto Condition
+    - Johto Trainersanity
+    - Kanto Trainersanity
+    - Randomize Wilds
+    - Dexsanity
+    - Randomize Berry Trees
+    - Randomize Pokedex
+    - Randomize Pokemon Requests
+    - Randomize Phone Calls
+    - Randomize Fly Unlocks
+    - Randomize Bug Catching Contest
+    - Randomize Starters
+    - Encounter Grouping
+    - Randomize Static Pokemon
+    - Level Scaling
+    - Randomize Trades
+    - Randomize Trainer Parties
+    - Randomize Learnsets
+    - Physical/Special Split
+    - Randomize TM Moves
+    - TM Compatibility
+    - HM Compatibility
+    - Randomize Types
+    - Randomize Palettes
+    - Randomize Music
+    - Require Flash
+    - HM Badge Requirements
+    - Remove Ilex Forest Cut Tree
+    - Saffron Gatehouse Tea
+    - East - West Underground
+    - Undergrounds Require Power
+    - All Pokemon Seen
+    - Filler Trap Percentage
+    - Enable Mischief
+    - Grasssanity
+    - Trainer Palette
+    - Progressive Rods
 Pokemon Emerald:
     - Pokemon Emerald
     - Locations
@@ -823,6 +1550,7 @@ Pokemon Emerald:
     - Randomize NPC Gifts
     - Randomize Berry Trees
     - Dexsanity
+    - Dexsanity Encounter Types
     - Trainersanity
     - Item Pool Type
     - Require Itemfinder
@@ -865,6 +1593,12 @@ Pokemon Emerald:
     - HM Requirements
     - Randomize Music
     - Randomize Fanfares
+    - Local Items
+Pokemon Ranger (Quest):
+    - Pokemon Ranger (Quest)
+    - Locations
+    - Name
+    - Goal Amount
 Pokemon Red and Blue:
     - Pokemon Red and Blue
     - Locations
@@ -923,6 +1657,18 @@ Raft:
     - Raft
     - Locations
     - Name
+Rain World:
+    - Rain World
+    - Locations
+    - Name
+    - More Slugcats Expansion?
+    - Campaign
+    - Victory condition
+    - Food quest
+    - Expanded food quest
+    - Sheltersanity
+    - Karma Flowers
+    - Dev tokens
 Risk of Rain 2:
     - Risk of Rain 2
     - Locations
@@ -938,12 +1684,33 @@ Risk of Rain 2:
     - Total Revives as percentage
     - Final Stage Death is Win
     - Enable DLC - SOTV
+    - Enable DLC - SOTS
     - Require Stages
     - Progressive Stages
     - Item Pickup Step
     - Enable Trap Items
     - Enable Lunar Item Shuffling
     - Item Weights
+Satisfactory:
+    - Satisfactory
+    - Locations
+    - Name
+    - Select your Goals
+    - Final Space Elevator Phase in logic
+    - AWESOME Sink points total
+    - AWESOME Sink points per minute
+    - Exploration Collectables
+    - Hard Drive Progression Items
+    - "Free Samples: Buildings"
+    - "Free Samples: Parts"
+    - Starting Goodies Presets
+    - MAM Placement
+    - AWESOME Stuff Placement
+    - EnergyLink Placement
+    - Milestone cost multiplier %
+    - Trap Chance
+    - Trap Presets
+    - Randomize Default Part Recipes
 Saving Princess:
     - Saving Princess
     - Locations
@@ -1005,6 +1772,73 @@ Shivers:
     - Location of Pot Pieces
     - Full Pots
     - Ixupi Captures are Priority
+Slay the Spire:
+    - Slay the Spire
+    - Locations
+    - Name
+    - Character
+    - Pick Number of Characters
+    - Final Act
+    - Downfall
+    - Ascension
+    - Trap Chance
+    - Campfire Sanity
+    - Gold Sanity
+    - Potion Sanity
+    - Shop Sanity
+    - Shop Card Slots
+    - Shop Neutral Card Slots
+    - Shop Relic Slots
+    - Shop Potion Slots
+    - Shop Remove Slots
+    - Shop Sanity Costs
+"SMW: Spicy Mycena Waffles":
+    - "SMW: Spicy Mycena Waffles"
+    - Locations
+    - Name
+    - Goal
+    - Boss Shuffle
+    - Enemy Shuffle
+    - Energy Link
+    - Ability Shuffle
+    - Game Logic Difficulty
+    - Inventory Yoshi Logic
+    - Yoshi Egg Count
+    - Required Percentage of Golden Yoshi Eggs
+    - Dragon Coin Checks
+    - 3up Moon Checks
+    - Hidden 1-Up Checks
+    - Star Block Checks
+    - Midway Point Checks
+    - Room Checks
+    - Block Checks
+    - Bowser Castle Rooms
+    - Random Level Effects
+    - Starting Location
+    - Map Teleport Shuffle
+    - Map Transition Shuffle
+    - Carryless Exit Count
+    - Swap Exit Count
+    - Swap Donut GH Exits
+    - Trap Fill Percentage
+    - Ice Trap Weight
+    - Stun Trap Weight
+    - Literature Trap Weight
+    - Timer Trap Weight
+    - Reverse Trap Weight
+    - Thwimp Trap Weight
+    - Fishin' Boo Trap Weight
+    - Screen Flip Trap Weight
+    - Sticky Floor Trap Weight
+    - Sticky Hands Trap Weight
+    - Pixelate Trap Weight
+    - Spotlight Trap Weight
+    - Bullet Time Trap Weight
+    - Invisibility Trap Weight
+    - Empty Item Box Trap Weight
+    - Music Shuffle
+    - Sound Effect Shuffle
+    - Mario Palette
 SMZ3:
     - SMZ3
     - Locations
@@ -1095,17 +1929,42 @@ Sonic Adventure DX:
     - Mission Requirement Percentage
     - Goal Requires Bosses
     - Boss Requirement Percentage
-    - Logic Level
-    - Sonic's Action Stage Missions
-    - Tails' Action Stage Missions
-    - Knuckles' Action Stage Missions
-    - Amy's Action Stage Missions
-    - Big's Action Stage Missions
-    - Gamma's Action Stage Missions
+    - Starting Character
+    - Entrance Randomizer
+    - Ring Loss
+    - "Sonic's Action Stage Missions"
+    - "Tails' Action Stage Missions"
+    - "Knuckles' Action Stage Missions"
+    - "Amy's Action Stage Missions"
+    - "Big's Action Stage Missions"
+    - "Gamma's Action Stage Missions"
+    - Music Shuffle
+    - Boss Checks
+    - Unify Chaos 4
+    - Unify Chaos 6
+    - Unify Egg Hornet
+    - Field Emblems Checks
+    - Secret Chao Egg Checks
     - Enable Mission Checks
-    - Enemy Sanity
-    - Capsule Sanity
-    - Ring Capsule Sanity
+    - Twinkle Circuit Check
+    - Sand Hill Check
+    - Sky Chase Checks
+    - EnemySanityList
+    - Include Missable Capsules
+    - CapsuleSanityList
+    - Fish Sanity
+    - Lazy Fishing
+    - Junk Fill Percentage
+    - Trap Fill Percentage
+    - Ice Trap Weight
+    - Spring Trap Weight
+    - Police Trap Weight
+    - Buyon Trap Weight
+    - Reverse Controls Trap Weight
+    - Gravity Trap Weight
+    - Reverse Control Trap Duration
+    - Traps and filler on Boss Fights
+    - Traps and filler on Perfect Chaos Fight
 Starcraft 2:
     - Starcraft 2
     - Locations
@@ -1184,6 +2043,7 @@ Super Mario 64:
     - Randomize 1Up !-Blocks
     - Progressive Keys
     - Enable 100 Coin Stars
+    - Enable Locked Paintings
     - Enable Move Randomizer
     - First Star Door Cost %
     - Basement Star Door %
@@ -1192,6 +2052,7 @@ Super Mario 64:
     - MIPS 2 Star %
     - Endless Stairs Star %
     - Completion Goal
+    - Local Items
 Super Mario Land 2:
     - Super Mario Land 2
     - Locations
@@ -1277,6 +2138,28 @@ The Legend of Zelda:
     - Expanded Item Pool
     - Triforce Locations
     - Starting Position
+The Legend of Zelda - Oracle of Seasons:
+    - The Legend of Zelda - Oracle of Seasons
+    - Locations
+    - Name
+    - Goal
+    - Logic Difficulty
+    - Rupee Old Men
+    - Deterministic Gasha Locations
+    - Secret Locations
+    - Shuffle Essences
+    - Normalize Horon Village Season
+    - Animal Companion
+    - Shuffle Subrosia Portals
+    - Shuffle Dungeons
+    - Default Seed Type
+    - Duplicate Seed Tree
+    - Keysanity (Small Keys)
+    - Keysanity (Boss Keys)
+    - Maps & Compasses Outside Dungeon
+    - Randomize Samasa Desert Gate Code
+    - Shop Prices
+    - Enforce Potion in Shop
 The Messenger:
     - The Messenger
     - Locations
@@ -1484,7 +2367,9 @@ Yu-Gi-Oh! 2006:
     - Name
     - Structure Deck
     - Banlist
+    - Final Campaign Boss unlock Condition
     - Final Campaign Boss challenges unlock amount
+    - Final Campaign Boss campaign opponent unlock amount
     - Fourth Tier 5 Campaign Boss campaign opponent unlock amount
     - Third Tier 5 Campaign Boss campaign opponent unlock amount
     - Number of Challenges
